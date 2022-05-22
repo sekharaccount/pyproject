@@ -1,0 +1,7 @@
+pybuilder
+django
+boto3
+pytest
+pandas
+pyspark==2.4
+coverage
